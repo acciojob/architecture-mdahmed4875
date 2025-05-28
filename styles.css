@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+table{
+	border:1px solid black;
+}
+td{
+	border:1px solid black;
+}
+#image{
+	width:200px;
+	height:200px;
+}
+#content{
+	width:1100px;
+	background-color:lightgreen;
+}
+.photo{
+	width:198px;
+}
+.f1{
+	width:200px;
+}
+.f2{
+	width:600px;
+}
