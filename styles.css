@@ -1,19 +1,23 @@
 table{
-	border:1px solid black;
+	width:100%;
+	border-color:collapse;
+	
 }
 td{
 	border:1px solid black;
+	padding:10px;
+	text-align:left;
 }
 #image{
-	width:200px;
-	height:200px;
+	max-width:100%
 }
-#content{
+body{
 	width:1100px;
 	background-color:lightgreen;
+	margin:auto
 }
 .photo{
-	width:198px;
+	width:100%;
 }
 .f1{
 	width:200px;
